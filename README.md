@@ -1,6 +1,11 @@
 
 ### Hello!
 
+![Image of Natalya and Lou as pixels](https://github.com/tallys/tallys/blob/main/tallypixel.gif)
+
+
+
+
 <!--
 **tallys/tallys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
