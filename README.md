@@ -1,6 +1,3 @@
-
-### Hello!
-
 ![Image of Natalya and Lou as pixels](https://github.com/tallys/tallys/blob/main/tallypixel.gif)
 
 
