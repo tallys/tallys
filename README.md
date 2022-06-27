@@ -1,5 +1,6 @@
+### Hey I'm Natalya. Design Infrastructure manager @ GitHub 🌱
 ![Image of Natalya and Lou as pixels](https://github.com/tallys/tallys/blob/main/tallypixel.gif)
-Hey I'm Natalya and I'm currently managing the design infrastructure team at GitHub 🌱
+
 
 
 
