@@ -1,6 +1,7 @@
 ### I'm Natalya. 
 Designer, engineer, artist, author, speaker, doer of good deeds.
 Director of [Primer Design System](https://primer.style/) @ GitHub. 
+[Learn more about my work](https://github.com/tallys/work-with-me/tree/main)
 
 I'm extremely online.
 
