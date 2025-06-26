@@ -1,10 +1,10 @@
 ### I'm Natalya. 
 Designer, engineer, artist, author, speaker, doer of good deeds.
-Currently leading the team working on [DRUIDS design system](https://druids.datadoghq.com/) at Datadog. 
+Currently leading the team working on [DRUIDS design system](https://druids.datadoghq.com/) @ Datadog. 
 Former Design Director of [Primer Design System](https://primer.style/) @ GitHub. 
-[Learn more about my work](https://github.com/tallys/work-with-me/tree/main)
+[Learn more about my work](https://github.com/tallys/work-with-me/tree/main).
 
-I'm extremely online.
+I'm extremely online! Trying to be more offline 🌲. 
 
 <!-- <img width="650" alt="image" src="https://github.com/tallys/tallys/assets/6720549/8c795ba7-7d9c-4795-80ee-e4eb843feacf"> -->
 
